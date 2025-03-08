@@ -17,8 +17,8 @@ b='ydf'
 print(type(b))
 
 
-
-
+c=4
+print(c/2) 
 
 
 print('HA')
