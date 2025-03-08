@@ -29,3 +29,7 @@ print(len(a))
 inf = 2
 INf = 999
 print(inf*INf)
+
+
+for i in range(10, 20):
+    print(i)
