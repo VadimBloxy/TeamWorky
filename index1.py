@@ -36,3 +36,8 @@ for i in range(10, 20):
 
 for i in range (40,50):
     print(i)
+
+
+IAd = 2
+Ted = 3
+print(Ted+IAd)
