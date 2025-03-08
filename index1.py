@@ -25,3 +25,7 @@ print('HA')
 
 a = 'fugu'
 print(len(a))
+
+inf = 2
+INf = 999
+print(inf*INf)
