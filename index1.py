@@ -13,7 +13,8 @@ print('geryrehrhjer')
 
 print('jhgyre')
 
-
+b='ydf'
+print(type(b))
 
 
 
