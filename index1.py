@@ -21,3 +21,6 @@ print('jhgyre')
 
 
 print('HA')
+
+a = 'fugu'
+print(len(a))
